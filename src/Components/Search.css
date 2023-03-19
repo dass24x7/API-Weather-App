@@ -1,0 +1,23 @@
+.input-div {
+    display: flex;
+}
+
+.search-bar {
+    font-size: 18px;
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: 2px solid blueviolet;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    width: 100%;
+}
+
+.btn {
+    font-size: 18px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    color: whitesmoke;
+    background: blueviolet;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
